@@ -9,4 +9,6 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
+  gem "algoliasearch-jekyll"
+  gem "jekyll-tagging"
 end
