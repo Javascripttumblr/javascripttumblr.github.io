@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/.md
 - _posts/2017-10-18-.md
 hide_body: false
 fields:
