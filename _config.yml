@@ -8,15 +8,15 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "cn"
+title                    : "Shoot"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+name                     : "Slayer"
+description              : "When you have to shoot – shoot, don’t talk"
+url                      : "https://javascripttumblr.github.io"
+baseurl                  : "/blog"
+repository               : "javascripttumblr/javascripttumblr.github.io"
+teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "HJ"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an boring person."
   location         : "Somewhere"
-  email            :
+  email            : "jakewong@email.com
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :"javascripttumblr"
   gitlab           :
   google_plus      :
   keybase          :
