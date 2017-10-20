@@ -14,7 +14,8 @@
     <div class="scrollblock block-title">
         <h1>git - 简明指南</h1>
         <p>助你入门 git 的简明指南，木有高深内容 ;)</p>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-via="rogerdudler" data-size="large" data-url="http://rogerdudler.github.com/git-guide" data-related="rogerdudler" data-hashtags="git">Tweet</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="rogerdudler" data-size="large" 
+	   data-url="http://rogerdudler.github.com/git-guide" data-related="rogerdudler" data-hashtags="git">Tweet</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         <p class="meta">
             作者：<a href="http://www.twitter.com/rogerdudler">罗杰·杜德勒</a>
@@ -223,8 +224,38 @@
             </ul>
         </p>
     </div>
-   
-    <a href="http://www.git-tower.com/?source=rd" onClick="recordOutboundLink(this, 'Outbound Links', 'git-tower.com');return false;" class="tower"></a>
-    <a href="files/git_cheat_sheet.pdf" onClick="recordOutboundLink(this, 'Cheat Sheet', 'git-guide');return false;" class="cheatsheet"></a>
+   <div style="text-align:center">
+	<div>
+		<b>本文为原创文章，转载请注明出处：</b><a href="https://www.xxx.com">jk's Blog</a> » <a href="about-blog-architure.html" title="">谈谈我的博客是如何构建与发布的</a>
+	</div>
+	<div class="friend_alert">
+		如果本站内容帮助到了你，请记得收藏、分享，或打赏支持，谢谢！
+	</div>
+	<div id="donate_div" class="donate_block" style="display: block;">
+		<div class="donate_block_left">
+			<img src="/images/donate_alipay.jpg" class="donate_block_image"><br>
+			<div class="donate_block_title">支付宝</div>
+		</div>
+		<div class="donate_block_right">
+			<img src="/images/donate_weixin.jpg" class="donate_block_image"><br>
+			<div class="donate_block_title">微信</div>
+		</div>
+	</div>
+	<div class="donate_button">
+		<a onclick="donate()">打赏</a>
+	</div>
+</div>
+    <a href="http://www.git-tower.com/" onClick="recordOutboundLink(this, 'Outbound Links', 'git-tower.com');return false;" class="tower"></a>
+    <a href="http://rogerdudler.github.com/files/git_cheat_sheet.pdf" onClick="recordOutboundLink(this, 'Cheat Sheet', 'git-guide');return false;" class="cheatsheet"></a>
 </body>
+<script>
+	function donate() {
+	var block = document.getElementById('donate_div');
+	if(block.style.display=='block') {
+		block.style.display='none';
+	}else {
+		block.style.display='block';
+	}
+}
+</script>
 </html>
