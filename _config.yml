@@ -90,12 +90,12 @@ author:
   email            : "jakewong@email.com"
   uri              :
   bitbucket        :
-  codepen          : "https://codepen.io/Javascripttumblr/"
+  codepen          : "Javascripttumblr/"
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/Jakewongsz"
+  facebook         : "Jakewongsz"
   foursquare       :
-  github           : "https://github.com/javascripttumblr"
+  github           : "javascripttumblr"
   gitlab           :
   google_plus      :
   keybase          :
@@ -107,9 +107,9 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/43777284"
+  twitter          : "43777284"
   vine             :
-  weibo            : "https://weibo.com/2183568793"
+  weibo            : "2183568793"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
