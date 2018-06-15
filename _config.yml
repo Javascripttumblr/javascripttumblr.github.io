@@ -85,17 +85,17 @@ analytics:
 author:
   name             : "Jake"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an boring person."
+  bio              : "I am a bored person."
   location         : "Somewhere"
-  email            : "jakewong@email.com
+  email            : "jakewong@email.com"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "https://codepen.io/Javascripttumblr/"
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/Jakewongsz"
   foursquare       :
-  github           :"javascripttumblr"
+  github           : "https://github.com/javascripttumblr"
   gitlab           :
   google_plus      :
   keybase          :
@@ -107,9 +107,9 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/43777284"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/2183568793"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
