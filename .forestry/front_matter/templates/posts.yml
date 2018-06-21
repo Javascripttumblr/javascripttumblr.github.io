@@ -1,9 +1,6 @@
 ---
-pages:
-- _posts/2017-10-18-.md
-- _posts/2017-10-18-.md
-- _posts/2017-10-18-.md
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -35,3 +32,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- _posts/2017-10-18-.md
