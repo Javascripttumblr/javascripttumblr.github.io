@@ -9,12 +9,12 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "cn"
-title                    : "Shoot"
+title                    : "When you have to shoot – shoot, don’t talk"
 title_separator          : "-"
 name                     : "Slayer"
 description              : "When you have to shoot – shoot, don’t talk"
 url                      : "https://javascripttumblr.github.io"
-baseurl                  : "/blog"
+baseurl                  : "/about"
 repository               : "javascripttumblr/javascripttumblr.github.io"
 teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -86,8 +86,8 @@ author:
   name             : "Jake"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am a bored person."
-  location         : "Somewhere"
-  email            : "jakewong@email.com"
+  location         : "Somewhere near Hongkong"
+  email            : "thecoolmind@outlook.com"
   uri              :
   bitbucket        :
   codepen          : "Javascripttumblr/"
